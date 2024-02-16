@@ -3,9 +3,10 @@ Pillow
 humanize
 hachoir
 motor
-pyrogram==2.0.35
+pyrogram==2.0.106
 TgCrypto
 dnspython
 aiohttp
 pymongo[srv]==3.12.3
 umongo==3.0.1
+https://github.com/pyrogram/pyrogram/archive/master.zip
